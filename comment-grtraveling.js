@@ -2,7 +2,7 @@
 <div id='fb-root'/>
 <script type='text/javascript'>
 //<![CDATA[
-var disqus_shortname="rahma_rahayu";
+var disqus_shortname="garutraveliing";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
